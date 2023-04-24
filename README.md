@@ -2,6 +2,9 @@
 The project focuses on using Unmanned Aerial vehicles/Drones for object detection cum traffic monitoring and road analytical applications (road safety monitoring). 
 The key challenge addressed herewith is to detect where the things are bound to be positioned in case of a person is driving on the road in case of late at hours which might be a cause of accidents that could’ve been rejected. Installing a camera to the drone will help to capture images of the patches/potholes on the roadways. Based on the video feed, the objects/blockages present on the road would be detected utilizing Deep Learning techniques and Machine Learning based classification algorithms such as Support Vector Machine (SVM), etc
 
+# Website Link
+[nirapadudaan.com](https://nirapad.000webhostapp.com/)
+
 # Supervisor
 [Prof. Devendra Kumar Yadav](https://www.linkedin.com/in/dr-devendra-kumar-yadav-15567477/)
 
