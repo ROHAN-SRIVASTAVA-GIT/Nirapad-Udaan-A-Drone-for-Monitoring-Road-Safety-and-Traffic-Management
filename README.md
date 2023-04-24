@@ -7,11 +7,12 @@ The key challenge addressed herewith is to detect where the things are bound to 
 
 # Contributer / Developer
 [Aniket Mishra](https://www.linkedin.com/in/aniket-mishra-15bb58124/)
-
+<br />
 [Chiranjit Behuria](https://www.linkedin.com/in/chiranjit-behuria-73a41b1b9/)
-
+<br />
 [Rohan Srivastava](https://www.linkedin.com/in/rohan3125/)
-
+<br />
 [Saksham Kumar Jha](https://www.linkedin.com/in/sakshamkj/)
-
+<br />
 [Sribananda Panda](https://www.linkedin.com/in/sribananda-panda/)
+<br />
