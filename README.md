@@ -8,7 +8,7 @@ The key challenge addressed herewith is to detect where the things are bound to 
 # Supervisor
 [Prof. Devendra Kumar Yadav](https://www.linkedin.com/in/dr-devendra-kumar-yadav-15567477/)
 
-# Contributer / Developer
+# Contributor / Developer
 [Aniket Mishra](https://www.linkedin.com/in/aniket-mishra-15bb58124/)
 <br />
 [Chiranjit Behuria](https://www.linkedin.com/in/chiranjit-behuria-73a41b1b9/)
